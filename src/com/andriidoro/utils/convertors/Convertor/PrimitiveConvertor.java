@@ -7,7 +7,7 @@ public class PrimitiveConvertor {
    // public static void main(String[] args) {
 
         public void floatToInt() {
-            float float1 = 152;
+            float float1 = 99;
             char char1 = (char) float1;
             System.out.println("Вводимое значение float " + float1 + " Выводимое значение char " + char1);
         }
@@ -20,7 +20,7 @@ public class PrimitiveConvertor {
 
 
     public void intToChar() {
-        int int1 = 54;
+        int int1 = 67;
         char char1 = (char) int1;
         System.out.println("Вводимое значение int " + int1 + " Выводимое значение char " + char1);
     }
