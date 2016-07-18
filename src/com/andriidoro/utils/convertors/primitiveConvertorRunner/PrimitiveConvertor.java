@@ -1,7 +1,5 @@
-package com.andriidoro.utils.convertors.Convertor;
+package com.andriidoro.utils.convertors.primitiveConvertorRunner;
 
-
-import com.sun.org.apache.xpath.internal.SourceTree;
 
 public class PrimitiveConvertor {
    // public static void main(String[] args) {

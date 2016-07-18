@@ -1,4 +1,4 @@
-package com.andriidoro.utils.convertors.Runner;
+package com.andriidoro.utils.convertors.calculatorRunner;
 
 /**
  * Created by Dogma on 7/17/2016.

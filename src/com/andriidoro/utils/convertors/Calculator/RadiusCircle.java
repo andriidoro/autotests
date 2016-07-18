@@ -1,8 +1,9 @@
-package com.andriidoro.utils.convertors.Calculator;
+package com.andriidoro.utils.convertors.calculator;
 
 import java.util.Scanner;
 
 public class RadiusCircle
+
 {
     public static void main(String[] args)
     {

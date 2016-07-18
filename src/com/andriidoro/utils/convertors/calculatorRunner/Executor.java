@@ -1,6 +1,6 @@
-package com.andriidoro.utils.convertors.Runner;
+package com.andriidoro.utils.convertors.calculatorRunner;
 
-import com.andriidoro.utils.convertors.Convertor.PrimitiveConvertor;
+import com.andriidoro.utils.convertors.primitiveConvertorRunner.PrimitiveConvertor;
 
 public class Executor
 {
