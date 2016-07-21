@@ -1,4 +1,4 @@
-package com.andriidoro.utils.convertors.primitiveConvertorRunner;
+package com.andriidoro.utils.convertors.primitiveConvertor;
 
 
 public class PrimitiveConvertor {

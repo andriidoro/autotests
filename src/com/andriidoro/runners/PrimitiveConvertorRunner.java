@@ -1,8 +1,8 @@
-package com.andriidoro.utils.convertors.calculatorRunner;
+package com.andriidoro.runners;
 
 import com.andriidoro.utils.convertors.primitiveConvertorRunner.PrimitiveConvertor;
 
-public class Executor
+public class PrimitiveConvertorRunner
 {
     public static void main(String[] args)
     {
