@@ -1,4 +1,4 @@
-package com.andriidoro.utils.convertors.calculator;
+package com.andriidoro.utils.calculator;
 
 public class PrintAllNumbersFor {  // перечислить числа от 0 до 10
     public static void main(String[] args) {

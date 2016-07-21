@@ -1,4 +1,4 @@
-package com.andriidoro.utils.convertors.calculator;
+package com.andriidoro.utils.calculator;
 
 // доделать дома
 public class CheckDigits {

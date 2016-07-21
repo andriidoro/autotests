@@ -1,4 +1,4 @@
-package com.andriidoro.arrays.loops;
+package com.andriidoro.arrays;
 
 public class OddArray {
 

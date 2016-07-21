@@ -1,4 +1,4 @@
-package com.andriidoro.arrays.loops;
+package com.andriidoro.arrays;
 
 import java.util.Random;
 

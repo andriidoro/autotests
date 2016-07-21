@@ -1,4 +1,4 @@
-package com.andriidoro.utils.convertors.calculator;
+package com.andriidoro.utils.calculator;
 
 /**
  * Created by tafin on 18.07.2016.
