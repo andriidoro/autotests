@@ -1,6 +1,6 @@
 package com.andriidoro.runners;
 
-import com.andriidoro.utils.convertors.primitiveConvertorRunner.PrimitiveConvertor;
+import com.andriidoro.utils.convertors.primitiveConvertor.PrimitiveConvertor;
 
 public class PrimitiveConvertorRunner
 {

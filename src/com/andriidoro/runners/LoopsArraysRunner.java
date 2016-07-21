@@ -1,7 +1,6 @@
 package com.andriidoro.runners;
 
-/**
- * Created by tafin on 20.07.2016.
- */
+import com.andriidoro.menus.LoopsArrayMenu;
+
 public class LoopsArraysRunner {
 }
