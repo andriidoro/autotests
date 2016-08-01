@@ -1,4 +1,4 @@
-package com.andriidoro.runners;
+package com.andriidoro.utils.runners;
 
 import com.andriidoro.utils.primitiveConvertor.PrimitiveConvertor;
 

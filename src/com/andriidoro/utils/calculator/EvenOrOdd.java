@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class EvenOrOdd
 {
-    public static void main(String[] args) {
+    public static void evenOrOdd() {
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number ");

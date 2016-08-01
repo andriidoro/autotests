@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class RadiusCircle
 
 {
-    public static void main(String[] args)
+    public static void radiusCircle()
     {
         Scanner scanner = new Scanner(System.in);
 
