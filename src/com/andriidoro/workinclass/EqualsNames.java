@@ -1,4 +1,4 @@
-package com.andriidoro.arrays.strings;
+package com.andriidoro.workinclass;
 
 
 public class EqualsNames {
