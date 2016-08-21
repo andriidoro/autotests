@@ -1,8 +1,8 @@
-package com.andriidoro.arrays.strings;
+package com.andriidoro.arrays.loops;
 
 
 public class EvenNumbersArray {
-    public static void main(String[] args) {
+    public static void evenNumbers() {
       // int a = 0;
         int[] arr = new int[21];
         for (int a = 0; a < arr.length; a++)
@@ -18,7 +18,7 @@ public class EvenNumbersArray {
         }
         System.out.println();
 
-        for (int i = 2; i <arr.length ; i++) {
+        for (int i = 2; i <arr.length; i++) {
             if (arr[i] % 2 == 0) {
                 System.out.println(arr[i]);
             }

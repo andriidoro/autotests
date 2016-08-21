@@ -1,4 +1,4 @@
-package com.andriidoro.utils.menu.cases;
+package com.andriidoro.menu.cases;
 
 import  java.util.Scanner;    // переделать под программу МЕНЮ из домашки
                              // использовать метод SWITCH

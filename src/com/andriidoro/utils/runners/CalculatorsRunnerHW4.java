@@ -1,8 +1,8 @@
 package com.andriidoro.utils.runners;
 
-import com.andriidoro.utils.menu.MenuCalculator;
+import com.andriidoro.menu.MenuCalculator;
 
-public class CalculatorsRunner {
+public class CalculatorsRunnerHW4 {
     public static void main(String[] args) {
         MenuCalculator.calculatorMenu();
     }

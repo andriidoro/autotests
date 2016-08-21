@@ -1,4 +1,4 @@
-package com.andriidoro.utils.menu;
+package com.andriidoro.menu;
 
 import com.andriidoro.utils.calculator.BiggerNumber;
 import com.andriidoro.utils.calculator.EvenOrOdd;
@@ -12,7 +12,6 @@ public class MenuCalculator  {
         double choice = 0;
 
         do {
-
             Scanner sc = new Scanner(System.in);
 
             System.out.println("Hello! =)" + "\n" + "Choose the number of tasks:" + "\n" + "1 - Circle Area" + "\n" +
@@ -34,6 +33,7 @@ public class MenuCalculator  {
                 System.out.println("You made incorrect choice. Try again!");
             }
             choice = numberOfChoice;
-        } while (choice != 0);
+        }
+        while (choice != 0);
     }
 }

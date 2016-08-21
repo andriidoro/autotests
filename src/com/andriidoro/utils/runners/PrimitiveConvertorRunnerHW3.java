@@ -1,8 +1,8 @@
 package com.andriidoro.utils.runners;
 
-import com.andriidoro.utils.primitiveConvertor.PrimitiveConvertor;
+import com.andriidoro.utils.primitiveconvertor.PrimitiveConvertor;
 
-public class PrimitiveConvertorRunner
+public class PrimitiveConvertorRunnerHW3
 {
     public static void main(String[] args)
     {
