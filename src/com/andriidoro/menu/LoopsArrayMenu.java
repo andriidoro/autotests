@@ -8,8 +8,9 @@ public class LoopsArrayMenu {
     public static void loopsMenu() {
 
             int choice = 0;
+        do {
             Scanner sc = new Scanner(System.in);
-
+            System.out.println();
             System.out.println("Please choose the programme to start: \n" +
                     "1 - Randome numbers array\n" +
                     "2 - Odd number array\n" +
@@ -17,12 +18,12 @@ public class LoopsArrayMenu {
                     "4 - MinMax number array\n" +
                     "5 - Two dimensional array\n");
 
-        int numberOfChoice = sc.nextInt();
-        choice = numberOfChoice;
-        switch (choice) {
+            int numberOfChoice = sc.nextInt();
+            choice = numberOfChoice;
+            switch (choice) {
 
-            case 1:
-                RandomNumbers.randomeNumbers();
+                case 1:
+                    RandomNumbers.randomeNumbers();
                     break;
                 case 2:
                     OddArray.oddNumbers();
@@ -40,8 +41,12 @@ public class LoopsArrayMenu {
                     System.out.println("You made incorrect choice =(");
                     break;
             }
-        System.out.println("\n");
+            System.out.println("\n");
 
-        System.out.print("Make youre choice again");
+            System.out.print("Make youre choice again");
+            System.out.println();
+        }
+        while (choice !=0);
     }
+
 }
