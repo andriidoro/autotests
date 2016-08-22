@@ -24,6 +24,6 @@ public class RandomNumbers
             }
         }
         System.out.println();
-        System.out.print("Quantity of even numbers is " + numberOfEvens);
+        System.out.print("Quantity of even numbers - " + numberOfEvens);
     }
 }

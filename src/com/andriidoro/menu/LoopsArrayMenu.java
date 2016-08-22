@@ -22,24 +22,26 @@ public class LoopsArrayMenu {
         switch (choice) {
 
             case 1:
-                    TwoDimensionalArray.twoDimArray();
+                RandomNumbers.randomeNumbers();
                     break;
                 case 2:
-                    RandomNumbers.randomeNumbers();
+                    OddArray.oddNumbers();
                     break;
                 case 3:
                     EvenNumbersArray.evenNumbers();
                     break;
-                case 5:
-                    OddArray.oddNumbers();
-                    break;
-                case 6:
+                case 4:
                     MinMaxNumber.minMaxNubers();
+                    break;
+                case 5:
+                    TwoDimensionalArray.twoDimArray();
                     break;
                 default:
                     System.out.println("You made incorrect choice =(");
                     break;
             }
+        System.out.println("\n");
 
+        System.out.print("Make youre choice again");
     }
 }
